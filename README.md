@@ -1,2 +1,4 @@
 # stargazer
-Connecting the NASA image and video library to a React.js front end
+Connecting the [NASA image and video library](https://api.nasa.gov/api.html#Images) to a React.js front end
+
+##
