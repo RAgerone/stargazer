@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone the repository
 
 2. In your terminal:
-- Navigate to your Stargazer directory
+- Navigate to your stargazer_frontend directory
 - Set up your local environment:
 create a .env file with the NASA api key
 ```
