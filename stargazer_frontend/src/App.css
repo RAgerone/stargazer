@@ -2,20 +2,16 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
 .App-header {
-  background-color: #222;
-  height: 150px;
+  font-family: 'Codystar', cursive;
+  background-color:#4f5f7a;
+  height: 50px;
   padding: 20px;
   color: white;
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 .App-intro {
@@ -26,3 +22,6 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+.App-header i {display:inline-block;margin-right:10px;
+font-size: 2em;}
+.App-title {display:inline-block;}
