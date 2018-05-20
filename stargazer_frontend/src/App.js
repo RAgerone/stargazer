@@ -22,7 +22,7 @@ class App extends Component {
     return (
       <div className="App">
       <header className="App-header">
-      <img src={logo} className="App-logo" alt="logo" />
+      <i class="fas fa-star"></i>
       <h1 className="App-title">Stargazer</h1>
       </header>
 
